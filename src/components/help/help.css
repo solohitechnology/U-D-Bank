@@ -1,0 +1,40 @@
+.help {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 80vh;
+}
+
+.help .help_content {
+    width: 47vw;
+    text-align: center;
+    height: 45vh;
+    /* background-color: coral; */
+    margin: 90px;
+}
+
+.help .help_content h1 {
+    color: rgb(165, 85, 152);
+}
+
+.help .help_content .chat {
+    width: 600px;
+    padding: 20px;
+    margin-right: 70px;
+}
+
+.help .help_content .contact {
+    color: rgb(56, 47, 47);
+}
+
+ a {
+    color: rgb(56, 47, 47);
+    text-transform: lowercase;
+}
+
+
+.help .img_container img {
+ width: 300px;
+ border-radius: 10px;
+}

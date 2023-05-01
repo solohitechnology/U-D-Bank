@@ -1,0 +1,35 @@
+.security {
+   width: 100vw;
+   height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.security .comment {
+    width: 35%;
+}
+
+.security .comment legend {
+    width: 400px;
+    height: 93px;
+    margin-top: 25px;
+    background-color: rgb(177, 138, 166);
+    margin-right: 20px;
+    text-align: center;
+    border-radius: 20px 5px;
+}
+
+.security .comment legend h4{
+   padding-top: 10px;
+}
+
+.security .comment legend label {
+  text-transform: lowercase;
+  color: rgb(240, 228, 228);
+}
+
+.security .secimg img {
+    width: 800px;
+    border-radius: 10px 40px;
+}

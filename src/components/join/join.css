@@ -1,0 +1,26 @@
+.wrapper {
+    width: 100vw;
+    height: 70vh;
+    text-align: center;
+}
+
+.wrapper h1 {
+    width: 90%;
+    font-size: 45px;
+    padding: 30px;
+    padding-left: 14%;
+    padding-top: 10%;
+    color: rgb(160, 67, 143);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.wrapper p {
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.wrapper p a {
+    color: blue;
+}

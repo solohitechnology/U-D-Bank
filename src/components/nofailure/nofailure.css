@@ -1,0 +1,29 @@
+.nofailure {
+    width: 100vw;
+    height: 45vh;
+    /* background-color: rgb(212, 196, 209); */
+    text-align: center;
+    margin-top: 10%;
+}
+
+.nofailure h1 {
+    padding-top: 5%;
+    
+}
+
+.nofailure .link {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   cursor: pointer;
+
+}
+
+.nofailure .link legend{
+   color: green;
+}
+
+.nofailure .link img {
+    width: 100px;
+    padding-top: 2%;
+}

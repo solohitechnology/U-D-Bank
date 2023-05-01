@@ -1,0 +1,64 @@
+/* .imgraper {
+    width: 100vw;
+    
+} */
+
+
+.imgraper {
+    background-color: rgb(241, 233, 241);
+    width: 380px;
+    height: 400px;
+    border-radius: 50px;
+    position: relative;
+    color: rgb(150, 115, 118);
+}
+
+
+
+
+.mobileapps  {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: rgb(225, 232, 235); */
+    margin-bottom: 60px;
+    margin-top: 15%;
+}
+
+
+.mobileapps img {
+    border-radius: 50px;
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    bottom: 230px;
+    left: 34%;
+}
+
+
+
+.mobileapps :hover{
+    background-color: rgb(148, 137, 163);
+    color: whitesmoke;
+    transition: 0.1s ease-in-out;
+    border-radius: 50px;
+}
+
+
+h3 {
+    position: absolute;
+    top:50%;
+    left: 15%;
+    
+}
+
+.imgraper legend {
+    position: absolute;
+    top: 65%;
+    left:10%;
+    width: 250px;
+    height: 100px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
